@@ -1,2 +1,2 @@
-# javascript-_learning
+# javascript_learning
 i will learn java script
